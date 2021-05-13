@@ -1,11 +1,11 @@
-#### Homepage
+#### React Sidebar-Modal Setup With Context
 
-[view](https://femi-ologunwa.github.io/12-react-sidebar-modal/)
+[view page](https://femi-ologunwa.github.io/12-react-sidebar-modal/)
 
-![](./homescreen.png)
+![](./homescreen.gif)
 
 ### Implementation
 
 -  Showing how to setup react context.
--  Passing data from context to components.
+-  Passing data between independent components by using the context created.
 -  Implement toggle functionality with data received from context
